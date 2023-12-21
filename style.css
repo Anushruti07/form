@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient( to right,#0064E7,#3C86E7,#00E5AD,#3BE3BF);
+}
+.mainarea{
+    background:#fff;
+    padding:50px;
+    width:35%;
+    margin: 50px auto;
+    border-radius:10px;
+}
+.mainarea h1{
+    color:#0A62BC;
+    padding-bottom:50px;
+    text-align:center;
+    font-weight:700;
+}
+.form1{
+    text-align:center;
+}
+.form1 input{
+    border:none;
+    border-bottom:solid 1px #00E5AD;
+    width:300px;
+}
+.form1 input:focus{
+    outline:none;
+    border-bottom:solid 2px #00E5AD;
+}
+.form1 button{
+    background-image: linear-gradient( to right,#0064E7,#3C86E7,#00E5AD,#3BE3BF);
+}
+.form1 a:link,.form a:visited{
+    color:#0064E7;
+    font-weight:500;
+
+}
